@@ -7,7 +7,7 @@ Por exemplo, se a moldura for de uma pintura de Vincent Van Gogh, o aplicativo p
 ## 🖼️ Exemplo
                     
 <div align="center">
-    <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTgwMGNhNjhkNDE5M2ZmN2ZlYzZlYTdkMzNmZmJlMWQ2MTEzMmY4OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/IFkEKtGxfCYIhLcA7B/giphy.gif">
+    <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDY0NGFlMDBlYjEwYTNhZGYwNzg4Y2RjOGVmNDZkMGQ4MzEwODYxNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XeYis4O9mN2z6CR5Dm/giphy.gif">
 </div>
 
 ## 🚀 Tecnologias utilizadas
