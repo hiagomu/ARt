@@ -19,6 +19,7 @@ Por exemplo, se a moldura for de uma pintura de Vincent Van Gogh, o aplicativo p
 ## 🤝 Equipe
 - Camilo Ribeiro
 - Hiago Murilo
+- João Vitor Santos
 - Marcelo Melo
 - Welligton Samuel
 ---
